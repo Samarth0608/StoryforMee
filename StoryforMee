@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samarth - Biography of Abdul Kalam</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Biography of Abdul Kalam - Samarth</h1>
+    <p>Abdul Kalam was an Indian scientist and politician who served as the 11th President of India from 2002 to 2007. He was born on October 15, 1931, in Rameswaram, Tamil Nadu, and died on July 27, 2015.</p>
+    <p>Kalam was known as the "Missile Man of India" for his work on the development of ballistic missile and launch vehicle technology. He played a pivotal organizational, technical, and political role in India's Pokhran-II nuclear tests in 1998, which established him as a national hero.</p>
+    <p>Throughout his career, Kalam received numerous awards and honors, including the Bharat Ratna, India's highest civilian award. He was also a prolific writer and speaker, inspiring millions with his vision for India's development and his message of peace and tolerance.</p>
+    <p>Abdul Kalam's life and work continue to inspire people around the world, serving as a beacon of hope and innovation for future generations.</p>
+</div>
+
+</body>
+</html>
